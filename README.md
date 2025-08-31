@@ -23,3 +23,6 @@ It also offers **bcrypt hashing** for securely storing passwords.
 ---
 
 ## 📂 Repository Structure
+__password__strength--analyser-/
+│── Password_Strength_Analyzer.ipynb # Main notebook
+│── README.md # Documentation
